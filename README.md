@@ -1,5 +1,4 @@
 # Compass
-[![Compass](https://avatars3.githubusercontent.com/u/7693459?s=140)](https://github.com/ProjectCompass/compass)
 
 Content Manager Press as System
 
